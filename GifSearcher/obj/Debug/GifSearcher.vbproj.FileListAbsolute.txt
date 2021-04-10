@@ -1,0 +1,15 @@
+c:\users\muril\onedrive\documentos\visual studio 2015\Projects\GifSearcher\GifSearcher\bin\Debug\GifSearcher.exe.config
+c:\users\muril\onedrive\documentos\visual studio 2015\Projects\GifSearcher\GifSearcher\bin\Debug\GifSearcher.exe
+c:\users\muril\onedrive\documentos\visual studio 2015\Projects\GifSearcher\GifSearcher\bin\Debug\GifSearcher.pdb
+c:\users\muril\onedrive\documentos\visual studio 2015\Projects\GifSearcher\GifSearcher\bin\Debug\GifSearcher.xml
+c:\users\muril\onedrive\documentos\visual studio 2015\Projects\GifSearcher\GifSearcher\obj\Debug\GifSearcher.vbprojResolveAssemblyReference.cache
+c:\users\muril\onedrive\documentos\visual studio 2015\Projects\GifSearcher\GifSearcher\obj\Debug\GifSearcher.Form1.resources
+c:\users\muril\onedrive\documentos\visual studio 2015\Projects\GifSearcher\GifSearcher\obj\Debug\GifSearcher.Resources.resources
+c:\users\muril\onedrive\documentos\visual studio 2015\Projects\GifSearcher\GifSearcher\obj\Debug\GifSearcher.vbproj.GenerateResource.Cache
+c:\users\muril\onedrive\documentos\visual studio 2015\Projects\GifSearcher\GifSearcher\obj\Debug\GifSearcher.exe
+c:\users\muril\onedrive\documentos\visual studio 2015\Projects\GifSearcher\GifSearcher\obj\Debug\GifSearcher.xml
+c:\users\muril\onedrive\documentos\visual studio 2015\Projects\GifSearcher\GifSearcher\obj\Debug\GifSearcher.pdb
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\GifSearcher\GifSearcher\obj\Debug\GifSearcher.Form2.resources
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\GifSearcher\GifSearcher\obj\Debug\GifSearcher.Form3.resources
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\GifSearcher\GifSearcher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\GifSearcher\GifSearcher\bin\Debug\Newtonsoft.Json.xml
